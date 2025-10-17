@@ -58,11 +58,12 @@ if 'models_loaded' not in st.session_state:
 def load_models(model_path, scaler_path, encoders_path, output_info_path):
     """Load pre-trained models and preprocessors"""
     try:
-        rf_model = joblib.load(model_path)
-        scaler = joblib.load(scaler_path)
-        label_encoders = joblib.load(encoders_path)
-        output_info = joblib.load(output_info_path)
-        return rf_model, scaler, label_encoders, output_info, True
+        rf_model = joblib.load(bioactive_model.pkl)
+        scaler = joblib.load(scaler.pkl)
+        label_encoders = joblib.load(encoders.pkl)
+        feautures = joblib.load(feautures.pkl)
+        output_info = joblib.load(output_info.pkl)
+        return rf_model, scaler, label_encoders, output_info, feautures True
     except Exception as e:
         st.error(f"Error loading models: {str(e)}")
         return None, None, None, None, False
