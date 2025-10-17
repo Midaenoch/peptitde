@@ -1,0 +1,1001 @@
+Protein Source,Microorganism,Inoculum Size,Temperature (°C),Time,pH,Stirring (rpm),Identified Bioactive Peptides,Biological Activities,Observations / Remarks
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),36.97790509455698,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.08749725224529,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ace inhibition; peptides stable after digestion.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),36.94252581345991,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.220586878655613,,"LVYPFP, LHLPLPL, IAVPTGVA","Ace inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Cow’s milk,K. marxianus z17,6 % (w/v),32.00207285590208,48 hr,6.5,,"VLSRYP, LRFF",Ace inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.00251422968498,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.01637148656674,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.977022983089995,24/48 hr,,,"Vlpvpk, lplp, lvypfp","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.991087125903604,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.116786539063064,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.98600006509529,48 hr,6.491401480208198,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.993243347298645,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.97937873043096,7.5 hr (pH 4.5),4.531148692907654,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.083107364764665,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.05416375076758,12 hr,,,Not specified,"Ace inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.01079800844794,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),37.01236419573824,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.08661688567221,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.048689781208925,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.0401267491584,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),36.9719976623153,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.11619021817385,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.103223983193253,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),36.91955736510235,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.12684550169534,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.95601105492264,24/48 hr,,,"Vpp, ipp",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.93797506741353,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.95990820567991,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.035910559573516,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.11812432256384,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.998472453606944,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.06048518210987,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.0653029370774,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.043869603671254,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.99619190615832,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.900026487579204,24 hr,,,Not specified,Ace inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.04380682759717,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.009229820877096,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.93735726720904,48 hr,6.4907824517033434,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.08051916229446,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.036662034638525,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.050044840401064,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.0900181053628,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.935098315711,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Goat’s milk,L. plantarum dq15,2 % (v/v),36.85885420462456,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.92643674315545,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.066194091591413,24 hr,6.16546169607612,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.07963275103558,12 hr,,,Not specified,"Ace inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.964576779479074,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.929604498976126,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.986713706507516,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.93636054531636,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.96304331208252,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Soy milk (reference),L. plantarum c2,1 % (v/v),30.0,24 hr,6.208023637255909,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.92289955355023,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.112850889348373,24 hr,6.194303082405864,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.0,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.04919975679735,48 hr,,,"Sdipnpigsensekttmplw, gldiqkvagtwy",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.97182152442883,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.9257674546517,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.98249492547722,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.02655875348739,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.03617458418854,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.996907102750235,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.042497454666844,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.93284567131473,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),36.95074131964619,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.94358710807443,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.02067935778262,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by b. bifidum.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),36.952569886867366,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,37.018512585522735,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.937283225057925,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.96986445061132,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.02872109252245,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.06760576590472,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.97183340192098,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Skimmed milk,L. casei Shirota,2 % (v/v),37.09100352135992,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),37.03974008643652,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.979605694455636,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Skimmed milk,S. thermophilus + l. delbrueckii subsp. bulgaricus,2 % (v/v),41.94362224978987,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,B. longum kacc 91563,1 % (v/v),37.006937675277705,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.90739822399372,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.950893348477464,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.971214129592703,48 hr,6.5,,"VLSRYP, LRFF",Ace inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.06981004579712,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.943156493457295,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.02108094072746,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),36.92140514693689,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.227201039603047,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),36.958049497577406,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.10338210310459,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.95020238385143,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.97061136673136,48 hr,,,"Lvypfp, lhlplpl, yqepvlgpvrgpfpiiv","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.956767758586196,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.08181197808109,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),36.964896306858556,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.958459349328685,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.017887369731184,48 hr,6.46034372909152,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.027308259191685,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),36.952862349042555,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.024210347962615,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.99938369646785,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.973454789592594,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.047729581217915,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,37.0368902200633,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.03305832728892,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.032653514929045,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.93311485724239,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.952644975771136,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,"L. helveticus b734, 141, t80, t105, dsmz 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.930480680812806,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.9583812834926,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.049850667233606,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.203884872946205,,"Lvypfp, lhlplpl, iavptgva","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.02691196503311,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),36.98729729685201,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.05272008143362,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.98710331277768,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.978406424597246,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.944913544882404,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.89251011560706,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.005774935831305,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.90095560084791,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.0184904234974,48 hr,6.4953461286147585,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),36.874348599292006,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.99795892456617,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.980179766988776,7.5 hr (ph 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.99333455737295,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.94358797061323,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.82069773641664,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.99513249041577,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0480892365274,24 hr,6.181010229442939,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.01682807956083,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.024065455927165,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.95626661716036,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.00681554721065,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),36.99955923339533,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.94285867980718,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.11740660405045,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.00959475756592,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.97074348831582,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.036475503458206,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.96336710886278,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.007117944936894,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Cow’s milk,L. helveticus H9,5 × 10⁶ cfu/ml,37.0129359300894,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.03696570859387,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Buffalo milk,L. rhamnosus gg,1 % (v/v),37.02220826256352,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0301631639556,24 hr,6.217756515633337,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Skimmed milk,L. casei Shirota,2 % (v/v),37.071423756308505,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.08252765222418,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.009862987656096,24 hr,6.20741845542867,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.07216135657684,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.984028247097815,48 hr,6.5,,"Vlsryp, lrff",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.031229317597443,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.03809059346378,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.90953856434656,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.94763340460657,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.97062047347613,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.92874985523333,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),36.998192693189736,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.948068126432034,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),36.99574223527653,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),36.91083351871326,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.00982460670932,48 hr,6.478350520375325,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.9557550285202,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.864792611202915,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.97303864868009,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.896532277941084,24 hr,,,"Lhlplpl, yqepvlgpvrgpfpiiv",ACE inhibitory,Strong ace inhibition; peptides stable after digestion.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.179212867280108,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.98015123960419,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.056963959857114,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.044353592535316,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.9452005442904,7.5 hr (pH 4.5),4.527108365095599,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.92257306721232,48 hr,6.494650939418726,,"Vlsryp, lrff",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),36.96054383688105,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.97439653981993,48 hr,,,"Sdipnpigsensekttmplw, gldiqkvagtwy",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.95989525021801,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.05342017281166,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.90295767965308,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",Ace inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.97236212256162,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.08919233650443,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.05280580847185,24/48 hr,,,"Vpp, ipp",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.9623883905487,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Skimmed milk,S. thermophilus + l. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),36.96073470159999,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,37.08050253380168,7.5 hr (pH 4.5),4.5442172908397485,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.96058438882309,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","Ace inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),37.021497686313865,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.89698937283294,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","Ace inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.0,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.98052962750774,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.04180371407759,48 hr,6.5,,"Vlsryp, lrff",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.98555584366359,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),36.912971100941945,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),36.9747270056551,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.187275445520055,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.005422543670825,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.05323541753591,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.94065065221437,48 hr,,,"Sdipnpigsensekttmplw, gldiqkvagtwy",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.98826910405163,7.5 hr (pH 4.5),4.5,,"Vpp, ipp",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.98980634191625,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),36.99958325851834,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.14877500241422,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.02302461259401,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.00992840178715,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.09274326032672,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.99565185908177,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),36.973307481631245,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.01364128668842,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,37.02523447499859,7.5 hr (pH 4.5),4.5,,"VPP, IPP",Ace inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.02793705779664,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.136436762447904,24 hr,6.2025789261751445,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.06670442085332,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.0,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.99205544369258,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.007950896435865,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),36.967882936353334,24 hr,,,Not specified,"Ace inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Skimmed milk,L. helveticus nk1,3 % (v/v),37.10433034535512,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Skimmed milk,L. casei shirota,2 % (v/v),36.936252541361846,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),36.93068640944752,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),36.932405736949235,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.03190722519351,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.9317479669614,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.068744845696735,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ace inhibition (ic₅₀ = 33–58 µm).
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Skimmed milk,L. casei Shirota,2 % (v/v),37.011225164115466,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.896545013838356,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.974497406778,7.5 hr (pH 4.5),4.511971184068163,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.0,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.98190243412092,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,B. longum kacc 91563,1 % (v/v),37.04644626382452,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,L. helveticus dsm 13137,3 % (v/v),36.87681690621051,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.94637828022739,7.5 hr (ph 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.91586881779835,24 hr,,,"Vlpvpqk, lplpll, lvypfp","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.91210641582679,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),36.99656451201065,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),36.986082393735835,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.988742765762396,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.99128817838188,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.12576900656106,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Skimmed milk,L. casei Shirota,2 % (v/v),37.025727770233466,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),36.94617276426262,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.04699406611832,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),36.96875304562422,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.010255528586214,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.058336146080386,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.0,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.034281088233236,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.981000612589014,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.006875667164834,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.98734609579396,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Skimmed milk,L. casei Shirota,2 % (v/v),37.01996681863824,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.10217141825147,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.966670872452546,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.0,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.067142001614,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.036430436640515,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.06803496525586,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.05093753257138,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.967420333548866,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.04760593547007,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.087542098040586,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.0,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.994444043687935,7.5 hr (pH 4.5),4.501115894676417,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.96927322982783,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.02989569940784,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.071945845401494,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.02718484599897,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.079870251877306,24 hr,6.205831052879287,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.0991797946441,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.249155632347781,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.0,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.011831617852565,24 hr,,,"Lhlplpl, yqepvlgpvrgpfpiiv",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.04432158362245,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.03771369815718,48 hr,6.489086904748804,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.937052043164684,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.998856413135954,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.038705025241185,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.96670235493318,24/48 hr,,,"VPP, IPP",ACE inhibitory,Ace-i peptides and activity higher when ph = 4.6 than with b. bifidum.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.998853301782894,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,L. helveticus cnrz32,3 % (v/v),37.12048356043913,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.0,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.98149097175894,24 hr,,,Not specified,ACE inhibitory,Ace activity rose after 24 hr; tripeptides confirmed by hplc.
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.024665724187564,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),37.02881685429733,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.0,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.062810351211624,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.93032838934877,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.011882107052976,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.00466126511635,24 hr,,,Not specified,"Ace inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.979525127942466,24 hr,,,"Vlpvpqk, lplpll, lvypfp","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,37.035539755133634,7.5 hr (pH 4.5),4.5311848203556515,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.119502148860406,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.96223218707105,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.140927078580738,24 hr,6.209742362059163,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.98601002777711,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.06365342065461,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.01676533329445,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.9506896094618,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.15054290553957,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.9622991318916,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.97907229215082,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.04353314384442,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.032511901020214,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.04045555329904,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.224093200978298,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.02787580201477,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.10712940382475,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.036719640022376,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.010941356145295,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.93903525022841,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.05961105566287,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),36.981223336757864,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kda fraction = 62.3 % ace-i; 18 peptides showed antihypertensive effect.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.123687504060356,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.03548341391636,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,L. helveticus dsm 13137,3 % (v/v),36.88177574385412,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.037724374244334,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.914858204043306,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.947413951611306,48 hr,6.483247868303183,,"VLSRYP, LRFF",Ace inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.09405628805311,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.94079355484301,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.0,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Cow’s milk,L. helveticus h9,5 × 10⁶ CFU/mL,37.10676571589159,7.5 hr (ph 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.00438265290604,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.979066667125124,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.97982782183282,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.94606540779228,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.93654201551763,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.020801782958294,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.045469037695476,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.941803929220846,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.866318212984453,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.07636910522408,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.23305950925386,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Buffalo milk,L. rhamnosus gg,1 % (v/v),37.073473225068554,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,L. helveticus H9,5 × 10⁶ cfu/ml,36.9500172902244,7.5 hr (pH 4.5),4.517682843690283,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.045342562487292,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.014084796124436,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,K. marxianus z17,6 % (w/v),32.02980279611708,48 hr,6.468834776352921,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.05948392385627,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.9964257184421,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.954771714835168,48 hr,6.468358921974295,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.97152806140442,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.94854488701953,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.015005975128474,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.205649983972452,,"Lvypfp, lhlplpl, iavptgva","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),36.96463745315966,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.05529754931426,48 hr,6.492519922396576,,"Vlsryp, lrff",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.0,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.934387173786256,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.97733065278264,24/48 hr,,,"VPP, IPP",ACE inhibitory,Ace-i peptides and activity higher when ph = 4.6 than with b. bifidum.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.935850837931355,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,"L. helveticus ascc474, ascc1188, ascc1315",1 % (v/v),37.09405025362696,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Skimmed milk,L. casei Shirota,2 % (v/v),36.91812695995055,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.053266948559866,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.10329848008647,48 hr,6.478256441340326,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),36.89629692980124,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Skimmed milk,L. casei Shirota,2 % (v/v),37.012559959864895,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.06563366749401,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.03287692575498,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.03048931474389,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.06669104092116,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.943435540140186,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.99919709806149,24 hr,,,Not specified,ACE inhibitory,Ace activity rose after 24 hr; tripeptides confirmed by hplc.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.99125217775663,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.977074851092276,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.082237376944015,48 hr,6.483358748182589,,"VLSRYP, LRFF",Ace inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.009522393584774,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.85189354935583,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.077983243273483,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.042569787591624,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.0,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Cow’s milk,"L. helveticus ascc474, ascc1188, ascc1315",1 % (v/v),37.009321845460676,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.97105233828463,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.02399566635332,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.00739638424781,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.113869573368994,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.205326196255366,,"Lvypfp, lhlplpl, iavptgva","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),37.08181065078862,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.016139730284383,24 hr,6.176594473633656,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.06241383594794,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.957562165126596,7.5 hr (pH 4.5),4.521560149837787,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.018616434309845,24 hr,6.1999782470361735,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.042695523047264,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.93667999847476,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.03108715513979,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.989377413397975,24 hr,,,"Vlpvpqk, lplpll, lvypfp","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.13818473104964,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.001139263652405,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.940407200860097,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,K. marxianus z17,6 % (w/v),31.931943695228764,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),36.974501493845544,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.97064629882792,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.995136819845484,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.940904619787695,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.94199069275699,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.04272237996511,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.8813440037095,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.9944774671218,7.5 hr (pH 4.5),4.505456758674635,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.92393721079091,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.849527983199366,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),36.91460395367649,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.0,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.02901224112092,24 hr,6.20247363501397,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.99593974658018,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.023225117940825,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.817954980014015,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.04461929194087,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.94326204949822,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.96745498019965,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.96449584535498,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),36.988327821085505,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.94025428776206,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.013236189134055,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.040246051081404,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,37.05405144106824,7.5 hr (pH 4.5),4.519606937055385,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Skimmed milk,L. casei Shirota,2 % (v/v),37.0,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.0292843657904,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.0433255098797,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),36.919731237060745,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),36.99009558564252,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Cow’s milk,"L. helveticus ascc474, ascc1188, ascc1315",1 % (v/v),36.897979864150415,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.1273736834137,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.02938850552218,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",Ace inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,37.06658058019463,7.5 hr (pH 4.5),4.53822217203026,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.9572888248757,7.5 hr (pH 4.5),4.567449048779702,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,Ace inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),36.87621415741516,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.025209173278014,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.13520863524663,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),36.99260680254587,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.01139916572714,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),36.92373485386888,12 hr,,,Not specified,"Ace inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.01808987101418,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,"L. helveticus b734, 141, t80, t105, dsmz 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.95497027772143,7.5 hr (pH 4.5),4.507491959507051,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.91637119902347,7.5 hr (pH 4.5),4.507696832481022,,"Vpp, ipp",ACE inhibitory,"High in vitro ace-i (86.4 % ± 1.5 %), short fermentation, detectable vpp & ipp."
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.99918691136083,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.98642240780337,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,37.074827853575684,7.5 hr (ph 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.02301400337864,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kda).
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.915584498355415,7.5 hr (pH 4.5),4.522876976289351,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.96923252153833,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.937751661288715,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.99127961688926,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.007973301010004,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.028549901554825,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.982776376731536,7.5 hr (pH 4.5),4.519653747676337,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.995478575732925,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.09129668012509,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,B. longum KACC 91563,1 % (v/v),36.98604048380086,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.06683058921237,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.091110695902515,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.04030967558585,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ace inhibition; peptides stable after digestion.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.99914330127687,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","Ace inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.95907976454134,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.007742557246736,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.07934177523189,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.04561661671203,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.0,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.854902024282914,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.943239284524303,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.06488347706555,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),36.98133407250283,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.902491966296374,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.1996157688258835,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.05681935849981,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Goat’s milk,L. plantarum DQ15,2 % (v/v),37.03720559387913,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.0,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; lc-572 had both effects.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.10318963510466,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.04554394773401,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.91494549517473,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.00233200023712,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.062954181684226,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.0,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.98939788306939,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.02698587947563,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.96931636475944,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.088175942848636,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.01604854944115,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.04254916522812,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","Ace inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.99203774383369,48 hr,,,"Lvypfp, lhlplpl, yqepvlgpvrgpfpiiv","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.951603737413635,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.006215674072415,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.95185303721618,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.042094568759474,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.0093853562286,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.00432361333927,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.96287767933366,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.0,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.01190801318513,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),36.91996470138056,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.91574904793212,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.01462725914992,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.86548397961621,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.963138957161746,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.9460784365005,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.05583338650081,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.96594026434731,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.08984888302654,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.01717410515826,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),37.00323452587588,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.009486824541426,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.00803373832692,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.95072626981203,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),37.05131577534409,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),36.994643868210375,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.05887553918453,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),37.04054931094495,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.1050059863961,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Skimmed milk,L. casei Shirota,2 % (v/v),36.98400279850932,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.03523720787404,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.050360753919392,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.00832398010122,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.975823732607,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",Ace inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.053921831202864,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),36.98815117638719,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.05351416057541,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.09185681242598,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,Dsmz 20075 and t80 showed stronger antioxidative activity.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.00651067942481,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.94116531574823,24 hr,,,Not specified,"Ace inhibitory, antioxidative",Peptide and cell-free extract both active.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.198139111022643,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.084511734553445,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.074785642145805,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),37.02600538222839,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.00275537734796,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.994280073668513,48 hr,6.485398736876251,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.008361239128064,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),36.95787111016004,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),36.985287370726795,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.94566239087938,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.988030148638096,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.105396389315715,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,37.03955627365384,7.5 hr (pH 4.5),4.5341780633482225,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.01802066989471,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.93163353423737,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.07224325727855,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,"L. helveticus imau80872, imau80852, imau80851",2 % (v/v),36.89037091238389,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.08325690980788,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),36.92661869261396,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),36.99304167623428,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ace-i, antioxidative, and immunomodulatory activity."
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.97536717426948,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.0,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.05939827793676,48 hr,6.476874163193096,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.0316750392854,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.91237134036738,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),36.95448999461114,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.14260472681577,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),36.87032840241267,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.031956908437294,24 hr,6.2021267373354,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.97669020006299,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Soy milk (reference),L. plantarum c2,1 % (v/v),30.01942246250209,24 hr,6.165883699685374,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.035400491632075,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),37.0,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.00496408090315,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.10531384074687,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.03809085098181,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.10003290888262,24 hr,6.210617732691195,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.0,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Skimmed milk,L. casei Shirota,2 % (v/v),37.06051672201629,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.021322989865915,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.03351307879992,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.033383072486,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.962007045486864,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.00312808073078,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.9871148179302,24/48 hr,,,"Vpp, ipp",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,L. helveticus dsm 13137,3 % (v/v),37.06204492849902,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.05169275343969,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ace inhibition (ic₅₀ = 33–58 µm).
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.82726673330418,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.0,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.049906372380924,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.963162012333704,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.2,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.953348384003082,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.01463653360078,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),36.99799875836968,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.963972293683543,48 hr,6.497588404782273,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),36.96731100959255,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.056474896119084,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.911303906408044,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.181362593819707,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.04848573205073,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,37.02970609659315,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.972182353579555,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.9301673874414,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),36.912506477237756,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,L. helveticus cnrz32,3 % (v/v),36.83881328785286,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,37.0200509887265,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.99366910476867,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.976382194103245,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.98522871313012,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.95640167764764,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",Ace inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.0,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.959940262039915,48 hr,6.483561133468618,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.04763735788292,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Soy milk (reference),L. plantarum c2,1 % (v/v),30.06302187133382,24 hr,6.221842958222048,,"LVYPFP, LHLPLPL, IAVPTGVA","Ace inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Soy milk (reference),L. plantarum c2,1 % (v/v),30.010095352991407,24 hr,6.198619694468364,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.01612673616021,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.121124923186066,24/48 hr,,,"Vpp, ipp",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.002182810816265,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),37.069446022477536,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.99115503343441,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,37.03266296221402,7.5 hr (pH 4.5),4.505189814970967,,"Vpp, ipp",ACE inhibitory,"High in vitro ace-i (86.4 % ± 1.5 %), short fermentation, detectable vpp & ipp."
+Skimmed milk,L. casei Shirota,2 % (v/v),37.05229766581955,24 hr,,,"LVYPFP, YFYPEL",Ace inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),36.99876208795833,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.98289632230278,24 hr,,,"LVYPFP, YFYPEL",Ace inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.02784998904615,24 hr,6.200697966532753,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.88810918241209,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.00670214687603,48 hr,6.4738706055362245,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),36.924220320916916,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.04284816105715,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.92990072707526,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),36.96919153629075,24 hr,,,Not specified,"ACE inhibitory, antioxidant",Ace inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.022004673644986,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,L. helveticus dsm 13137,3 % (v/v),36.88929237352969,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.07643275265698,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.926815479468594,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.01140669783216,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.03350780979807,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (p1), ace inhibitory (p2, p3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.03285417098874,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.990944497183875,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.170636237618356,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),37.0155431352934,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.05274853888811,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.00774542877328,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.966827920166835,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),36.89360724163048,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,37.02517008327301,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.944653350770736,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.11151622644394,48 hr,6.5,,"Vlsryp, lrff",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.051028259487346,24/48 hr,,,"Vpp, ipp",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.065728079000266,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),36.97025275914205,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.060448967814196,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",Ace inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.00582269176265,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.94167752927017,48 hr,6.470108711289504,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.974830573384015,48 hr,6.495132798406296,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.116811390260175,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Skimmed milk,L. casei Shirota,2 % (v/v),37.08764320470335,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.99772657538205,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.94040476624675,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.0333743783362,24 hr,,,"Vpp, ipp, lkp, alpm, pgpihd, vagtwy, dnp, ipi",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.04108735717199,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),37.00598337969784,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","Ace inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.90657547183009,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.07466192688989,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.099989356786445,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.01768628118888,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ace inhibition (ic₅₀ = 33–58 µm).
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.951946601438905,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.166639860683915,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.012494240488905,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.92586940249771,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,37.0,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.94560196907383,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.95144356517651,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.991459914612854,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.95494150689673,24/48 hr,,,"Vpp, ipp",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.138182773369394,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.21727969494449,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.015971918986835,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.053996138673675,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.00499948076258,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.985629454575836,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,L. helveticus dsm 13137,3 % (v/v),36.97605279190733,24/48 hr,,,"VPP, IPP",ACE inhibitory,Ace-i peptides and activity higher when ph = 4.6 than with b. bifidum.
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.00033717331767,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.99652265769514,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Goat’s milk,L. plantarum DQ15,2 % (v/v),37.09178667243439,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","Ace inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.0,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),37.008159829151815,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","Ace inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.93184373614891,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),36.95285548346018,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.070437159039756,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.030210439623616,24 hr,,,"Vpp, ipp",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),36.9786412979522,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.01851217613013,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.93400227948922,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.11737236963028,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.94511578347577,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.856972618971355,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),36.82677205636431,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.210349702660245,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.9969810038711,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.09974367980156,24 hr,6.2034696589915255,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.03943414204474,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),36.90280805336716,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,37.05348263437597,7.5 hr (pH 4.5),4.506336122390139,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.03371521419183,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.05450745097357,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.99220484086786,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.09083096239224,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),36.939089542199646,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.00175381408958,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.03634451436291,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Goat’s milk,L. plantarum DQ15,2 % (v/v),37.122048458329814,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.970575716273686,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","Ace inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.9844621672321,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,"L. helveticus imau80872, imau80852, imau80851",2 % (v/v),36.885789289626196,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),36.942417349144286,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.094583166358877,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.0155112235967,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.972415033391854,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.98765985814953,24/48 hr,,,"Vlpvpk, lplp, lvypfp","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.962537962750666,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.90727617309433,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (p1), ace inhibitory (p2, p3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Skimmed milk,L. helveticus nk1,3 % (v/v),36.92933891391631,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),36.99213464785404,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.11292813465509,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,K. marxianus z17,6 % (w/v),32.06973371940559,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.918100408036544,7.5 hr (pH 4.5),4.508204677336487,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.076342051087316,24 hr,,,"Lhlplpl, yqepvlgpvrgpfpiiv",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.04763833689251,48 hr,6.495359119386636,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.01287498629139,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),36.990474422706164,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.01987963237019,48 hr,6.461753684998836,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.006272991489844,24 hr,,,"Vpp, ipp",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.95562867750415,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),36.98919118485278,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.94414857660198,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.921586260810244,7.5 hr (pH 4.5),4.534523687405322,,"VPP, IPP",ACE inhibitory,"High in vitro ace-i (86.4 % ± 1.5 %), short fermentation, detectable vpp & ipp."
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),36.9236308289069,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.98045831526558,48 hr,6.461308306634856,,"VLSRYP, LRFF",Ace inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.01052999314273,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,B. longum kacc 91563,1 % (v/v),37.06014995284957,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.9174845259633,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.993674793919688,48 hr,6.462387629491464,,"Vlsryp, lrff",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.014694211589568,24 hr,6.2322204137682,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),36.98573602444923,24 hr,,,"Vpp, ipp, lkp, alpm, pgpihd, vagtwy, dnp, ipi",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Skimmed milk,S. thermophilus + l. delbrueckii subsp. bulgaricus,2 % (v/v),41.906385008607074,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,37.03277749521795,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.191716974879341,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.95159559228006,24 hr,,,Not specified,"Ace inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.06415308236959,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),36.99601758477993,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),36.9700893127431,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.05711999717471,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.984121897261105,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.97516942074803,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.05262006664498,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.0,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Skimmed milk,L. casei Shirota,2 % (v/v),37.04199069569741,24 hr,,,"LVYPFP, YFYPEL",Ace inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.02101102440435,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,B. longum KACC 91563,1 % (v/v),36.930976557590625,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kda fraction = 62.3 % ace-i; 18 peptides showed antihypertensive effect.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.00487302706469,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Skimmed milk,S. thermophilus + l. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,B. bifidum mf20/5,3 % (v/v),36.915931647141825,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.94082341282512,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.981382582644855,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.910699124618272,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ace inhibition (81.23 %). ic₅₀ = 36.7 and 116.9 µm.
+Skimmed milk,L. casei Shirota,2 % (v/v),37.005260442833745,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.94526439930689,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),36.93636341798667,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.98283818425162,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.215761534728804,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),36.87860089320999,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.96850543212246,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.89881711989971,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.963556034452747,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.97116385953404,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,37.05706051774621,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.04601637204616,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.0091251462438,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.05982336976145,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.0,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.08761683639121,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kda).
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.952477739038635,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.92977038005267,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.95577714910638,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.0,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.91123209292204,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Skimmed milk,L. casei Shirota,2 % (v/v),37.00290394522152,24 hr,,,"LVYPFP, YFYPEL",Ace inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.87040488919031,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.97838662089062,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.01491660170352,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.982381592746158,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.92988874228797,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),36.94041495046539,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.99412236862238,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.068204241662905,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.177886082439815,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.96572322386018,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.972832111652636,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Goat’s milk,L. delbrueckii subsp. bulgaricus lb340,2 % (v/v),36.964074686006484,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.9097241473525,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,B. longum kacc 91563,1 % (v/v),37.103967157617326,24 hr,,,"Β-, αs₁- and κ-casein peptides (p1–p18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.97567678487413,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,L. helveticus dsm 13137,3 % (v/v),37.01378862729248,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.93417867654646,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.00079789364786,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.9442175933317,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.94622521829147,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",Ic₅₀ = 31.5 µm; strong dpph radical-scavenging capacity.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.03463384570062,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.932525099258385,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.0,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.93424990506515,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.9339180287309,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,37.043453020331114,7.5 hr (pH 4.5),4.532998692687081,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.0,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),36.975498776110406,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Skimmed milk,L. casei Shirota,2 % (v/v),37.04962284044665,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.05637606296795,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.00459434178996,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.03663684208201,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Skimmed milk,L. casei Shirota,2 % (v/v),36.8897862923306,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.01104368205262,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.95495424515615,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.086345188492484,24 hr,6.21145057859933,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Skimmed milk,L. casei Shirota,2 % (v/v),37.046409012149944,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.03155940373217,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),36.99144834541042,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.02069607030314,24 hr,6.170385513784705,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.08784701725171,24 hr,,,"Β-, αs₁- and κ-casein peptides (p1–p18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.941962331783106,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ace inhibition (81.23 %). ic₅₀ = 36.7 and 116.9 µm.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.933529601478554,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.95524981455922,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),36.936647539769226,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.92963069612925,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.9610852419317,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.11171443336407,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.96868578815179,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.015690128425064,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),36.95138548646519,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),36.94692874170116,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.98362340368141,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.99577212826842,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.92134740831322,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.962887745774054,24 hr,,,"Vlpvpqk, lplpll, lvypfp","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.05067054675973,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.01736620492897,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.98485130028544,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.97797848134194,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.0364827384284,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.01123511233349,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.895260024379354,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.02509011100743,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.94632681716345,48 hr,6.471089572787399,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.065656072960362,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.045332311661724,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.01376772377575,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.13597000222769,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Goat’s milk,L. plantarum DQ15,2 % (v/v),37.01933997096929,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.0,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.00843656774574,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.01495772454055,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.017351302708015,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,B. longum kacc 91563,1 % (v/v),36.98391440175466,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,L. helveticus dsm 13137,3 % (v/v),36.912069043116276,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.99128916926145,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.96308507098735,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Goat’s milk,L. delbrueckii subsp. bulgaricus lb340,2 % (v/v),37.051647245603135,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",Ace inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.0536523304159,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),37.06560579599949,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.922768531754485,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.95570752756802,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.080672267519958,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.988632980072694,7.5 hr (pH 4.5),4.52595426629603,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.06464156858236,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.04139982451453,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.986330165767512,48 hr,6.4754073147426015,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),37.00875369786071,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.01801810002318,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.047676346820836,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.99773439837931,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),36.82776400983179,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.05354404335416,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.048291558678976,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),36.95556353566863,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.0,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.99442824590682,24 hr,,,"LVYPFP, YFYPEL",Ace inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,K. marxianus Z17,6 % (w/v),31.977080345931174,48 hr,6.491650052902249,,"VLSRYP, LRFF",Ace inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.91372151666444,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.10668089449444,48 hr,6.492400961006821,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.01033118382919,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),36.99633732070854,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.99221436166655,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.97545761672269,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.0,48 hr,6.5,189.0,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,Ace activity rose after 24 hr; tripeptides confirmed by hplc.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.92729054903674,7.5 hr (pH 4.5),4.526466417247117,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Pasteurized non-fat milk (10 % w/v),L. lactis NRRL-B-505071 … 50599,3 % (v/v),30.012581749237974,24/48 hr,,,Not specified,"Antithrombotic, hypocholesterolemic",Different strains showed distinct activities; Lc-572 had both effects.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),37.055744545845144,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.151683533768654,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),41.933344363705935,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.932312586406084,24 hr,,,Not specified,"Ace inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),36.993804213352945,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.95701991855143,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.10885184493182,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.9522580341251,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.03998456197713,24 hr,,,"Lhlplpl, yqepvlgpvrgpfpiiv",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.00421905013788,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,"L. helveticus b734, 141, t80, t105, dsmz 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.904722201504285,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.99242111983885,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),36.97657399992071,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by b. bifidum.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.0,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.01054030705386,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.90075891978035,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),36.90552860617495,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.181463872524485,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.07962451621062,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.05778726450878,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Skimmed milk,L. helveticus NK1,3 % (v/v),37.00641509656042,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","ACE inhibitory, antioxidant",Ic₅₀ = 31.5 µm; strong dpph radical-scavenging capacity.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.98343776833074,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.92935926032009,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.0108457858314,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Skimmed milk,L. helveticus NK1,3 % (v/v),36.97125157643192,48 hr,,,"LVYPFP, LHLPLPL, YQEPVLGPVRGPFPIIV","Ace inhibitory, antioxidant",IC₅₀ = 31.5 µM; strong DPPH radical-scavenging capacity.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),36.95616766239488,24 hr,,,Not specified,"Ace inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.05580930758118,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.97069744047653,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.98545643956664,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.0687639837055,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.95633264323078,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,37.03385026169523,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.03237115470664,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.06059042108617,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.96595901347742,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.02402343162927,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.91107665214429,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.03050753070211,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",Ace inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,37.04514996210423,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Buffalo milk,L. rhamnosus GG,1 % (v/v),37.05965154152784,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.0098453262576,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.912252030444655,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.0465005692751,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Goat’s milk,L. plantarum DQ15,2 % (v/v),36.918174550803556,24 hr,,,"VLPVPQK, LPLPLL, LVYPFP","ACE inhibitory, antioxidative",Peptides stable to digestion and heat; suitable for functional beverages.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.121369983624135,24 hr,,,"Β-, αs₁- and κ-casein peptides (p1–p18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Skimmed milk,L. casei Shirota,2 % (v/v),37.049550474216275,24 hr,,,"LVYPFP, YFYPEL",Ace inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,"L. helveticus ASCC474, ASCC1188, ASCC1315",1 % (v/v),37.10158034032825,12 hr,,,Not specified,"ACE inhibitory, antioxidative, immunomodulatory","All strains released multifunctional peptides with ACE-I, antioxidative, and immunomodulatory activity."
+Skimmed milk,L. casei Shirota,2 % (v/v),36.957641022459875,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),36.98344052841779,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.94261370579012,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Skimmed milk,L. casei Shirota,2 % (v/v),36.99818737839172,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Skimmed milk,L. casei Shirota,2 % (v/v),37.07224113310099,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.021821755012155,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.067138748266885,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.99718271139649,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Cow’s milk,"L. plantarum 26, 27, 55, 56",2 % (v/v),37.0106899508487,48 hr,,,Not specified,"Antihemolytic, antimutagenic, anti-inflammatory, antioxidative, antimicrobial",Crude extracts showed higher activity than peptide fractions (< 3 kDa).
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.99279192045357,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),37.032296220051876,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
+Cow’s milk,L. helveticus CNRZ32,3 % (v/v),37.0539800796765,24 hr,,,"VPP, IPP",ACE inhibitory,High tripeptide yield; activity rose with fermentation time.
+Soy milk (reference),L. plantarum C2,1 % (v/v),30.0,24 hr,6.194652540865792,,"LVYPFP, LHLPLPL, IAVPTGVA","ACE inhibitory, antioxidative",Used for comparative assessment of non-dairy peptide sources.
+Cow’s milk,B. bifidum MF20/5,3 % (v/v),37.00066211508473,24/48 hr,,,"VLPVPK, LPLP, LVYPFP","Antioxidative (P1), ACE inhibitory (P2, P3)",P3 peptide identified for the first time in milk fermented by B. bifidum.
+Cow’s milk,K. marxianus Z17,6 % (w/v),32.02207108124586,48 hr,6.5,,"VLSRYP, LRFF",ACE inhibitory,Fermentation optimized for ACE inhibition (81.23 %). IC₅₀ = 36.7 and 116.9 µM.
+Whey protein concentrate,L. plantarum 9509,1 % (v/v),36.908833276789146,48 hr,,,"SDIPNPIGSENSEKTTMPLW, GLDIQKVAGTWY",ACE inhibitory,Strong in-vitro ACE inhibition (IC₅₀ = 33–58 µM).
+Skimmed milk,S. thermophilus + L. delbrueckii subsp. bulgaricus,2 % (v/v),42.0,24 hr,,,Not specified,ACE inhibitory,ACE activity rose after 24 hr; tripeptides confirmed by HPLC.
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),36.900850796081336,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Camel milk,L. fermentum + l. rhamnosus,3 % (v/v),36.880060751990705,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.05419963868189,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),42.0,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,B. longum KACC 91563,1 % (v/v),37.004789812198325,24 hr,,,"β-, αs₁- and κ-casein peptides (P1–P18)",Antihypertensive,< 3 kDa fraction = 62.3 % ACE-I; 18 peptides showed antihypertensive effect.
+Skimmed milk,L. casei Shirota,2 % (v/v),37.0522954343979,24 hr,,,"LVYPFP, YFYPEL",ACE inhibitory,Peptides resistant to digestion; suitable for functional foods.
+Cow’s milk,"L. helveticus B734, 141, T80, T105, DSMZ 20075",2 % (v/v),41.93235088895045,12 hr,,,Not specified,Antioxidative,DSMZ 20075 and T80 showed stronger antioxidative activity.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),36.963038431800356,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,L. helveticus DSM 13137,3 % (v/v),37.01642036313498,24/48 hr,,,"VPP, IPP",ACE inhibitory,ACE-I peptides and activity higher when pH = 4.6 than with B. bifidum.
+Cow’s milk,L. helveticus H9,5 × 10⁶ CFU/mL,36.95702103879643,7.5 hr (pH 4.5),4.5,,"VPP, IPP",ACE inhibitory,"High in vitro ACE-I (86.4 % ± 1.5 %), short fermentation, detectable VPP & IPP."
+Camel milk,L. fermentum + L. rhamnosus,3 % (v/v),37.053465479825974,24 hr,,,Not specified,"ACE inhibitory, antioxidant",ACE inhibition 83.4 %; antioxidant 70.2 %; co-culture > single strain.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),36.92801448684666,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Cow’s milk,"L. helveticus IMAU80872, IMAU80852, IMAU80851",2 % (v/v),37.06999576593206,24 hr,,,"VPP, IPP, LKP, ALPM, PGPIHD, VAGTWY, DNP, IPI",ACE inhibitory,All three L. helveticus strains produced VPP and IPP; IMAU80872 produced additional peptides (P3–P8). ACE-I activity increased after proteolysis.
+Buffalo milk,L. rhamnosus GG,1 % (v/v),36.94233543248985,24 hr,,,Not specified,"ACE inhibitory, antioxidative",Peptide and cell-free extract both active.
+Goat’s milk,L. delbrueckii subsp. bulgaricus LB340,2 % (v/v),36.982012856178905,24 hr,,,"LHLPLPL, YQEPVLGPVRGPFPIIV",ACE inhibitory,Strong ACE inhibition; peptides stable after digestion.
