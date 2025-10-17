@@ -53,20 +53,34 @@ if 'models_loaded' not in st.session_state:
     st.session_state.output_info = {}
     st.session_state.features = []
 
-# Function to load models
+# Function to load models from files
 @st.cache_resource
-def load_models(model_path, scaler_path, encoders_path, output_info_path):
-    """Load pre-trained models and preprocessors"""
+def load_models_from_files(model_file, scaler_file, encoders_file, features_file, output_info_file):
+    """Load pre-trained models and preprocessors from uploaded files"""
     try:
-        rf_model = joblib.load(bioactive_model.pkl)
-        scaler = joblib.load(scaler.pkl)
-        label_encoders = joblib.load(encoders.pkl)
-        feautures = joblib.load(feautures.pkl)
-        output_info = joblib.load(output_info.pkl)
-        return rf_model, scaler, label_encoders, output_info, feautures True
+        rf_model = joblib.load(model_file)
+        scaler = joblib.load(scaler_file)
+        label_encoders = joblib.load(encoders_file)
+        features = joblib.load(features_file)
+        output_info = joblib.load(output_info_file)
+        return rf_model, scaler, label_encoders, features, output_info, True
     except Exception as e:
         st.error(f"Error loading models: {str(e)}")
-        return None, None, None, None, False
+        return None, None, None, None, None, False
+
+# Function to load models from disk (if files are in the same directory)
+@st.cache_resource
+def load_models_from_disk():
+    """Load pre-trained models and preprocessors from disk"""
+    try:
+        rf_model = joblib.load('bioactive_model.pkl')
+        scaler = joblib.load('scaler.pkl')
+        label_encoders = joblib.load('encoders.pkl')
+        features = joblib.load('features.pkl')
+        output_info = joblib.load('output_info.pkl')
+        return rf_model, scaler, label_encoders, features, output_info, True
+    except Exception as e:
+        return None, None, None, None, None, False
 
 # Tabs
 tab1, tab2, tab3 = st.tabs([
@@ -108,14 +122,15 @@ with tab1:
     with col2:
         st.warning("### 📦 Required Model Files")
         st.markdown("""
-        Place these files in a folder and upload them:
+        Place these files in the same directory as your app:
         
-        1. **`rf_model.pkl`** - Trained Random Forest model
+        1. **`bioactive_model.pkl`** - Trained Random Forest model
         2. **`scaler.pkl`** - StandardScaler for features
-        3. **`label_encoders.pkl`** - LabelEncoders for categorical variables
-        4. **`output_info.pkl`** - Output class information (activities & peptides)
+        3. **`encoders.pkl`** - LabelEncoders for categorical variables
+        4. **`features.pkl`** - Feature names list
+        5. **`output_info.pkl`** - Output class information (activities & peptides)
         
-        You can upload them individually or specify a folder path.
+        You can either place them in the same folder or upload them manually.
         """)
         
         st.info("### 🎯 Predictions")
@@ -133,42 +148,28 @@ with tab1:
 with tab2:
     st.header("🔧 Load Pre-trained Models")
     
-    st.info("💡 **Tip:** Upload all 4 required .pkl files to get started")
+    # Option to load from disk or upload
+    load_method = st.radio("Choose loading method:", 
+                          ["📁 Load from disk (same directory)", "📤 Upload files manually"],
+                          horizontal=True)
     
-    col1, col2 = st.columns(2)
-    
-    with col1:
-        model_file = st.file_uploader("📊 Upload Model (rf_model.pkl)", type=['pkl'])
-        scaler_file = st.file_uploader("📏 Upload Scaler (scaler.pkl)", type=['pkl'])
-    
-    with col2:
-        encoders_file = st.file_uploader("🔤 Upload Label Encoders (label_encoders.pkl)", type=['pkl'])
-        output_file = st.file_uploader("📋 Upload Output Info (output_info.pkl)", type=['pkl'])
-    
-    if st.button("🚀 Load Models", type="primary", use_container_width=True):
-        if all([model_file, scaler_file, encoders_file, output_file]):
-            with st.spinner("Loading models..."):
-                try:
-                    # Load files
-                    st.session_state.rf_model = joblib.load(model_file)
-                    st.session_state.scaler = joblib.load(scaler_file)
-                    st.session_state.label_encoders = joblib.load(encoders_file)
-                    st.session_state.output_info = joblib.load(output_file)
-                    
-                    # Extract feature names from scaler
-                    if hasattr(st.session_state.scaler, 'feature_names_in_'):
-                        st.session_state.features = list(st.session_state.scaler.feature_names_in_)
-                    else:
-                        # Default feature list
-                        st.session_state.features = [
-                            'Temperature (°C)', 'pH', 'Stirring (rpm)', 'Inoculum_Pct',
-                            'Time_Hours', 'Temp_pH', 'Time_Temp', 
-                            'Protein Source_Enc', 'Microorganism_Enc'
-                        ]
-                    
+    if load_method == "📁 Load from disk (same directory)":
+        st.info("💡 **Looking for files:** bioactive_model.pkl, scaler.pkl, encoders.pkl, features.pkl, output_info.pkl")
+        
+        if st.button("🚀 Load Models from Disk", type="primary", use_container_width=True):
+            with st.spinner("Loading models from disk..."):
+                rf_model, scaler, label_encoders, features, output_info, success = load_models_from_disk()
+                
+                if success:
+                    # Save to session state
+                    st.session_state.rf_model = rf_model
+                    st.session_state.scaler = scaler
+                    st.session_state.label_encoders = label_encoders
+                    st.session_state.features = features
+                    st.session_state.output_info = output_info
                     st.session_state.models_loaded = True
                     
-                    st.success("✅ All models loaded successfully!")
+                    st.success("✅ All models loaded successfully from disk!")
                     
                     # Display model info
                     col1, col2, col3 = st.columns(3)
@@ -183,11 +184,55 @@ with tab2:
                         st.write(list(st.session_state.output_info['peptide_classes']))
                         st.write("\n**Feature Names:**")
                         st.write(st.session_state.features)
-                    
-                except Exception as e:
-                    st.error(f"❌ Error loading models: {str(e)}")
-        else:
-            st.warning("⚠️ Please upload all 4 required files")
+                else:
+                    st.error("❌ Could not find model files in the current directory. Please ensure all 5 .pkl files are present.")
+    
+    else:  # Upload files manually
+        st.info("💡 **Tip:** Upload all 5 required .pkl files to get started")
+        
+        col1, col2 = st.columns(2)
+        
+        with col1:
+            model_file = st.file_uploader("📊 Upload Model (bioactive_model.pkl)", type=['pkl'], key="model")
+            scaler_file = st.file_uploader("📏 Upload Scaler (scaler.pkl)", type=['pkl'], key="scaler")
+            encoders_file = st.file_uploader("🔤 Upload Label Encoders (encoders.pkl)", type=['pkl'], key="encoders")
+        
+        with col2:
+            features_file = st.file_uploader("🔧 Upload Features (features.pkl)", type=['pkl'], key="features")
+            output_file = st.file_uploader("📋 Upload Output Info (output_info.pkl)", type=['pkl'], key="output")
+        
+        if st.button("🚀 Load Uploaded Models", type="primary", use_container_width=True):
+            if all([model_file, scaler_file, encoders_file, features_file, output_file]):
+                with st.spinner("Loading models..."):
+                    try:
+                        # Load files
+                        st.session_state.rf_model = joblib.load(model_file)
+                        st.session_state.scaler = joblib.load(scaler_file)
+                        st.session_state.label_encoders = joblib.load(encoders_file)
+                        st.session_state.features = joblib.load(features_file)
+                        st.session_state.output_info = joblib.load(output_file)
+                        st.session_state.models_loaded = True
+                        
+                        st.success("✅ All models loaded successfully!")
+                        
+                        # Display model info
+                        col1, col2, col3 = st.columns(3)
+                        col1.metric("Activities", len(st.session_state.output_info['activity_classes']))
+                        col2.metric("Peptides", len(st.session_state.output_info['peptide_classes']))
+                        col3.metric("Features", len(st.session_state.features))
+                        
+                        with st.expander("📋 View Model Details"):
+                            st.write("**Activity Classes:**")
+                            st.write(list(st.session_state.output_info['activity_classes']))
+                            st.write("\n**Peptide Classes:**")
+                            st.write(list(st.session_state.output_info['peptide_classes']))
+                            st.write("\n**Feature Names:**")
+                            st.write(st.session_state.features)
+                        
+                    except Exception as e:
+                        st.error(f"❌ Error loading models: {str(e)}")
+            else:
+                st.warning("⚠️ Please upload all 5 required files")
 
 # TAB 3: Make Predictions
 with tab3:
